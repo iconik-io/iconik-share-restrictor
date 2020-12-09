@@ -1,0 +1,1 @@
+# iconik-share-restrictor
